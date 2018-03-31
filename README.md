@@ -1,2 +1,2 @@
 # Polynomial
-Generic types on the example of a polynomial
+Generics and operators overloading on the example of a polynomial
